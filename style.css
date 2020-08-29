@@ -213,7 +213,7 @@
 }
 
 .featured {
-    background-image: url(../img/Featured_background.jpg);
+    background-image: url(img/Featured_background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
